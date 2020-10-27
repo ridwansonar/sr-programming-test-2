@@ -1,0 +1,11 @@
+Collection Name: news_article
+
+Fields yang harus ada:
+* article_id_l: Long
+* url_s: String
+* title_s: String
+* content_t: String
+* clean_content_t: String   (content yang sudah bersih dati tag html)
+* summary_t: String
+* published_date_dt: Date
+* published_ts_l: Long
