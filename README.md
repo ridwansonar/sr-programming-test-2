@@ -12,7 +12,7 @@ Pemohon diharapkan dapat menunjukkan pemahaman dan kemampuannya membuat program 
   * Silakan mengakses URL berikut ini untuk keterangan lebih lanjut: [XPATH w3schools](https://www.w3schools.com/xml/xpath_intro.asp)
 * menyimpan DETAIL_ARTIKEL ke dalam database dan solr
   * Untuk database, silahkan melihat [skema ini](https://github.com/sonarid/sr-programming-test-2/blob/master/schema/sql/news_article.sql)
-  * Untuk solr, silahkan melihat [skema ini](https://github.com/sonarid/sr-orogramming-test-2/blob/master/schema/news_solr.txt)
+  * Untuk solr, silahkan melihat [skema ini](https://github.com/sonarid/sr-programming-test-2/blob/master/schema/news_solr.txt)
 * DETAIL_ARTIKEL terdiri dari:
   * URL
   * Judul
